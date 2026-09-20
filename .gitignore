@@ -1,0 +1,6 @@
+node_modules
+dist
+*.local
+public/media/videos/*.mp4
+public/media/images/*.jpg
+public/media/**/*.part

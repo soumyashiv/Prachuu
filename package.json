@@ -1,0 +1,31 @@
+{
+  "name": "prachii",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "assets": "node scripts/download-assets.mjs",
+    "predev": "node scripts/download-assets.mjs --soft",
+    "dev": "vite",
+    "prebuild": "node scripts/download-assets.mjs --soft",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fontsource/inter-tight": "^5.0.0",
+    "@gsap/react": "^2.1.2",
+    "gsap": "^3.13.0",
+    "motion": "^12.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "tailwindcss": "^4.1.0",
+    "typescript": "~5.7.2",
+    "vite": "^6.0.0"
+  }
+}

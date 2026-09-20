@@ -1,0 +1,19 @@
+{
+  "base": "https://meez.design/web/",
+  "videos": {
+    "left": "media/bg-videos/ms-person.mp4",
+    "right": "media/bg-videos/ms-nature-nice.mp4"
+  },
+  "images": [
+    "bg-previews/279_lbwkwb5v5i.jpg",
+    "bg-previews/280_lf367owp8b.jpg",
+    "bg-previews/281_mag4s8xjit.jpg",
+    "bg-previews/282_mb0vljq6ea.jpg",
+    "bg-previews/283_mpstfz9kkw.jpg",
+    "bg-previews/284_o1br1hvec4.jpg",
+    "bg-previews/285_o3pg4ceknu.jpg",
+    "bg-previews/286_or36kux95o.jpg",
+    "bg-previews/287_p3d3ubxsst.jpg",
+    "bg-previews/288_pac5rafgvq.jpg"
+  ]
+}
